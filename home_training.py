@@ -2,10 +2,10 @@
 
 
 l1 = [1, 2, 3]
-for l2 in l1:
 
 
-print(l2)
+
+print(l1)
 
 
 '''
