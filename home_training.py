@@ -4,8 +4,7 @@ import math
 
 # Задание №1
 # l1 = [1, 2, 3]
-# for l in l1:
-#     l2 = [i * 2 for i in l1]
+# l2 = [i * 2 for i in l1]
 # print(l2)
 # Решено!
 
@@ -15,6 +14,13 @@ import math
 #     l2 = [i ** 2 for i in l1]
 # print(l2, sum(l2))
 # Решено!
+# Образец решения:
+# l1 = [1, 2, 3]
+# res = 0
+# for num in l1:
+#     res += num ** 2
+# print(res)
+
 
 # Задание №3
 # time1 = 3
@@ -29,10 +35,9 @@ import math
 # Решено!
 
 # Задание №4
-s = 'Hello World'
-for l in s:
-    if l == ' ':
-        print(s.upper())
-else:
-    print(s.lower())
-# Не решено!
+# s = 'Hello World'
+# if ' ' in s:
+#     print(s.upper())
+# else:
+#     print(s.lower())
+# решено с помощью тренера
