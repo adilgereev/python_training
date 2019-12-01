@@ -49,4 +49,5 @@ l2 = list('hello')
 s = '-'.join(map(str, l))
 s2 = ','.join(l2)
 
-print(s, s2)
+print(s)
+print(s2)
