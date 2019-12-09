@@ -12,7 +12,7 @@ s = []
 
 while True:
     y = int(input('Угадай число от 1 до 100: '))
-    s.append('no')
+    s.append('+')
     if y == x:
         print('Красавчик, ты угадал число!', 'Количество попыток:', len(s))
         break
