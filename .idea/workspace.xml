@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="082691f0-090e-4ca4-8684-a420d37574bf" name="Default Changelist" comment="" />
 =======
+=======
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
     <list default="true" id="5222e303-e5ee-4945-8775-6f01e64e76a2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/def.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
     </list>
+<<<<<<< HEAD
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
+=======
 >>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +31,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1THsSpVJLXTvqXrCUxKhgCu1aM9" />
+=======
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1UkcpiM1HgPtc1XH2nwgkHSAcxl" />
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
 =======
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -39,6 +51,7 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
@@ -48,11 +61,17 @@
     <configuration name="Списки (массивы) + таблица умножения" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
   </component>
+=======
+  </component>
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/AutoTest" />
   </component>
   <component name="RunManager" selected="Python.calculator">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+<<<<<<< HEAD
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
+=======
 >>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
       <module name="MyNewProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,10 +118,13 @@
       <list>
         <item itemvalue="Python.calculator" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.tuple" />
         <item itemvalue="Python.home_training" />
         <item itemvalue="Python.Списки (массивы) + таблица умножения" />
+=======
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
 =======
 >>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
       </list>
@@ -137,6 +159,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1575904427893</updated>
+<<<<<<< HEAD
     </task>
 <<<<<<< HEAD
     <task id="LOCAL-00006" summary="Dict">
@@ -171,6 +194,10 @@
 =======
     <option name="localTasksCounter" value="2" />
 >>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
+=======
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +214,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <MESSAGE value="Ничего особенного" />
     <MESSAGE value="Решение домашнего задания" />
@@ -226,6 +254,8 @@
     </state>
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1575759601109" />
 =======
+=======
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
     <MESSAGE value="change from works" />
     <option name="LAST_COMMIT_MESSAGE" value="change from works" />
   </component>
@@ -238,6 +268,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577115059924" />
+<<<<<<< HEAD
+>>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
+=======
 >>>>>>> 4ee9e21f108d9bbda74ad0126918d1b83a361d18
   </component>
 </project>
