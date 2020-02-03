@@ -42,7 +42,7 @@ product2 = dict(title='iPhone', price=110)
 #
 # ]
 # print(products)
-#
+
 # for product in products:
 #     print(product['title'], product['price'])
 
